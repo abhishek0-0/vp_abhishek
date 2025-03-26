@@ -1,4 +1,4 @@
-// DisguisePlayer.js
+
 import React, { useRef, useState } from 'react';
 
 const DisguisePlayer = ({ player, onDisguise }) => {
